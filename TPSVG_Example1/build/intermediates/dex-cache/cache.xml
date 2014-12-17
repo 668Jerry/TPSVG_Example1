@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/pre-dexed/debug/classes-90032b2ecb571ff1ccf05d06b8126475007aa7d9.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/pre-dexed/debug/classes-fb856d31e8562092caa99e7a542c97dd8bacf380.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/pre-dexed/debug/classes-494c088e3ff4d4f6c80a67f4ce432ca12ed05e7e.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-6b055158d9caf3da2c946b9d36eb402cc8b3338d.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/pre-dexed/debug/classes-0793d876a733c55d776cc287a06a89a9e4d2e58a.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/lololol/AndroidStudioProjects/tpsvg/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1f91a5c1c334cd6deb94a76d89d843fddac2718c.jar" />
+    </item>
+    <item
+        jar="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/lololol/AndroidStudioProjects/TPSVG_Example1/TPSVG_Example1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-2080902916eadc3cdc0b1defe90b346f1ffd100e.jar" />
+    </item>
+
+</items>
