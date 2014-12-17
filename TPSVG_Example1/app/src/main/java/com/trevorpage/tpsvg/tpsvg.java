@@ -17,9 +17,10 @@ public class tpsvg extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         this.setContentView(R.layout.main);
         SVGView svgView = (SVGView)this.findViewById(R.id.svgImage);
-        SVGParserRenderer image = new SVGParserRenderer(this, R.raw.anime);
+        SVGParserRenderer image = new SVGParserRenderer(this, R.raw.anime2);
         svgView.setSVGRenderer(image, null);
-        svgView.setBackgroundColor(0xff123456);
+//        svgView.setBackgroundColor(0xff123456);
+        svgView.setBackgroundColor(0xffff0000);
     }
 
 

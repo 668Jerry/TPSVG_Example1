@@ -12,8 +12,8 @@
    
     <com.trevorpage.tpsvg.SVGView
         android:id="@+id/svgImage"
-        android:layout_width="300dp"
-        android:layout_height="450dp"        
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
         >
     </com.trevorpage.tpsvg.SVGView>
  
